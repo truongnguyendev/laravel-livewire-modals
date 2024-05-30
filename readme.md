@@ -2,6 +2,8 @@
 
 This package allows you to dynamically show your Laravel Livewire components inside Bootstrap modals.
 
+Support: Laravel 9.x, 10.x, 11.x, Livewire 2.x, 3.x
+
 ## Documentation
 
 - [Requirements](#requirements)
